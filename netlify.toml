@@ -1,4 +1,5 @@
 [build]
+  command = "node seo-postprocess.mjs"
   publish = "."
 
 [[headers]]
