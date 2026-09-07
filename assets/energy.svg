@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="t d">
+<title id="t">Solar power illustration</title><desc id="d">Abstract solar panels, sun and clean energy landscape.</desc>
+<defs><linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17231b"/><stop offset="1" stop-color="#0b120e"/></linearGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#285b4d"/><stop offset="1" stop-color="#102a24"/></linearGradient><radialGradient id="sun"><stop stop-color="#d8ffb1"/><stop offset=".45" stop-color="#9df25c"/><stop offset="1" stop-color="#9df25c" stop-opacity="0"/></radialGradient></defs>
+<rect width="1200" height="700" rx="40" fill="url(#sky)"/><circle cx="890" cy="160" r="120" fill="url(#sun)"/>
+<path d="M0 510 C180 420 310 500 470 450 C650 395 760 460 930 410 C1040 380 1120 390 1200 430 V700 H0Z" fill="#13241a"/>
+<g transform="translate(120 260) skewX(-13)"><g fill="url(#panel)" stroke="#5a907b" stroke-width="3"><rect width="240" height="150" rx="8"/><rect x="255" width="240" height="150" rx="8"/><rect x="510" width="240" height="150" rx="8"/></g><g stroke="#7da997" opacity=".45"><path d="M60 0v150M120 0v150M180 0v150M315 0v150M375 0v150M435 0v150M570 0v150M630 0v150M690 0v150"/><path d="M0 50h750M0 100h750"/></g></g>
+<g stroke="#587464" stroke-width="10"><path d="M220 410l-40 150M520 410l-20 150M820 410l20 150"/></g>
+<g transform="translate(830 380)"><rect width="170" height="210" rx="25" fill="#15231a" stroke="#6b8c74" stroke-width="3"/><rect x="58" y="-18" width="54" height="20" rx="6" fill="#88ef52"/><rect x="27" y="38" width="116" height="136" rx="12" fill="#26372c"/><rect x="27" y="86" width="116" height="88" rx="0 0 12 12" fill="#74e642"/><path d="M90 58l-28 46h30l-14 40 35-53H82z" fill="#d8ffb1"/></g>
+</svg>
